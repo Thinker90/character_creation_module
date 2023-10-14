@@ -77,7 +77,6 @@ def choice_char_class():
                                'чтобы выбрать другого персонажа ').lower()
     return char_class
 
-
 def main():
     print('Приветствую тебя, искатель приключений!')
     print('Прежде чем начать игру...')
